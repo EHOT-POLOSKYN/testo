@@ -1,2 +1,2 @@
-print("Hello world!")
-print("Капибара")
+print("Hello wWworld!")
+
